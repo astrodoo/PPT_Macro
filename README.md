@@ -1,5 +1,7 @@
 # Progress bar (continuous or discrete) on the PowerPoint slides
 
+![progressbar](images/slides_bar.png)
+
 Using Visual Basic in the Microsoft PowerPoint, it produces discrete or continuous progress bar at the targeted location (either of top or bottom of each slide). 
 
 ## How to use
