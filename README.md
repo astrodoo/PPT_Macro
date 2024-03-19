@@ -24,3 +24,4 @@ Using Visual Basic in the Microsoft PowerPoint, it produces discrete or continuo
 7) After editing the code, run the macro with "Macros" > "Run" 
 8) If you need to erase the progress bar for all slides, run the macro, "RemoveMacros" (for continuous bar) or "RemoveMacros_multiple" (for discrete bar) and do the step 4-7 if you want to re-draw the progress bar. 
 
+
